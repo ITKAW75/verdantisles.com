@@ -1,0 +1,896 @@
+[
+  {
+    "id": "fern_02",
+    "source": "https://polyhaven.com/a/fern_02",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 6232,
+    "triangles": 6232,
+    "bytes": 486128
+  },
+  {
+    "id": "ship_pinnace",
+    "source": "https://polyhaven.com/a/ship_pinnace",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 168317,
+    "triangles": 58634,
+    "bytes": 4738104
+  },
+  {
+    "id": "wooden_crate_01",
+    "source": "https://polyhaven.com/a/wooden_crate_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 6576,
+    "triangles": 6576,
+    "bytes": 774084
+  },
+  {
+    "id": "wooden_lantern_01",
+    "source": "https://polyhaven.com/a/wooden_lantern_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 8321,
+    "triangles": 8321,
+    "bytes": 1169240
+  },
+  {
+    "id": "fir_sapling_medium",
+    "source": "https://polyhaven.com/a/fir_sapling_medium",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 685046,
+    "triangles": 200272,
+    "bytes": 13868352
+  },
+  {
+    "id": "flower_heliophila",
+    "source": "https://polyhaven.com/a/flower_heliophila",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 17593,
+    "triangles": 8994,
+    "bytes": 613828
+  },
+  {
+    "id": "jacaranda_tree",
+    "source": "https://polyhaven.com/a/jacaranda_tree",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 3863832,
+    "triangles": 115169,
+    "bytes": 12069436
+  },
+  {
+    "id": "moon_rock_01",
+    "source": "https://polyhaven.com/a/moon_rock_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 18668,
+    "triangles": 17710,
+    "bytes": 832104
+  },
+  {
+    "id": "namaqualand_boulder_02",
+    "source": "https://polyhaven.com/a/namaqualand_boulder_02",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 97964,
+    "triangles": 9000,
+    "bytes": 1133416
+  },
+  {
+    "id": "rock_moss_set_01",
+    "source": "https://polyhaven.com/a/rock_moss_set_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 11000,
+    "triangles": 9000,
+    "bytes": 726384
+  },
+  {
+    "id": "seadogs_compass",
+    "source": "https://polyhaven.com/a/seadogs_compass",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 11645,
+    "triangles": 11645,
+    "bytes": 1145160
+  },
+  {
+    "id": "searsia_lucida",
+    "source": "https://polyhaven.com/a/searsia_lucida",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 7232,
+    "triangles": 7232,
+    "bytes": 3280624
+  },
+  {
+    "id": "pine_tree_01",
+    "source": "https://polyhaven.com/a/pine_tree_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 6951524,
+    "triangles": 164667,
+    "bytes": 12561232
+  },
+  {
+    "id": "grass_medium_01",
+    "source": "https://polyhaven.com/a/grass_medium_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 1257,
+    "triangles": 1257,
+    "bytes": 1672912
+  },
+  {
+    "id": "namaqualand_boulder_04",
+    "source": "https://polyhaven.com/a/namaqualand_boulder_04",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 59066,
+    "triangles": 9000,
+    "bytes": 950832
+  },
+  {
+    "id": "namaqualand_boulder_06",
+    "source": "https://polyhaven.com/a/namaqualand_boulder_06",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 109114,
+    "triangles": 9000,
+    "bytes": 1092112
+  },
+  {
+    "id": "treasure_chest",
+    "source": "https://polyhaven.com/a/treasure_chest",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 103330,
+    "triangles": 25769,
+    "bytes": 1742048
+  },
+  {
+    "id": "moss_01",
+    "source": "https://polyhaven.com/a/moss_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 24,
+    "triangles": 24,
+    "bytes": 510800
+  },
+  {
+    "id": "grass_bermuda_01",
+    "source": "https://polyhaven.com/a/grass_bermuda_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 17,
+    "triangles": 17,
+    "bytes": 663180
+  },
+  {
+    "id": "brass_goblets",
+    "nodes": [
+      "brass_goblet_01"
+    ],
+    "materials": [
+      "brass_goblets_01"
+    ],
+    "source": "https://polyhaven.com/a/brass_goblets",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 3072,
+    "triangles": 3072,
+    "bytes": 227092
+  },
+  {
+    "id": "brass_pot_01",
+    "nodes": [
+      "brass_pot_01"
+    ],
+    "materials": [
+      "brass_pot_01"
+    ],
+    "source": "https://polyhaven.com/a/brass_pot_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 3760,
+    "triangles": 3760,
+    "bytes": 214364
+  },
+  {
+    "id": "cannon_01",
+    "nodes": [
+      "cannon_01_frame",
+      "cannon_01_pusherblock",
+      "cannon_01_barrel",
+      "cannon_01_wheel_04",
+      "cannon_01_ball_01",
+      "cannon_01_ball_02",
+      "cannon_01_ball_03",
+      "cannon_01_wheel_01",
+      "cannon_01_wheel_02",
+      "cannon_01_wheel_03"
+    ],
+    "materials": [
+      "cannon_01"
+    ],
+    "source": "https://polyhaven.com/a/cannon_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 41444,
+    "triangles": 16970,
+    "bytes": 808348
+  },
+  {
+    "id": "ceramic_pot",
+    "nodes": [
+      "ceramic_pot"
+    ],
+    "materials": [
+      "ceramic_pot"
+    ],
+    "source": "https://polyhaven.com/a/ceramic_pot",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 3592,
+    "triangles": 3592,
+    "bytes": 236384
+  },
+  {
+    "id": "crystalline_iceplant",
+    "nodes": [
+      "crystalline_iceplant_a_LOD0"
+    ],
+    "materials": [
+      "crystalline_iceplant"
+    ],
+    "source": "https://polyhaven.com/a/crystalline_iceplant",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 3076,
+    "triangles": 3076,
+    "bytes": 522564
+  },
+  {
+    "id": "fir_sapling",
+    "nodes": [
+      "fir_sapling_a"
+    ],
+    "materials": [
+      "fir_sapling_branches",
+      "fir_sapling_twigs"
+    ],
+    "source": "https://polyhaven.com/a/fir_sapling",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 157402,
+    "triangles": 42544,
+    "bytes": 4343420
+  },
+  {
+    "id": "fir_tree_01",
+    "nodes": [
+      "fir_tree_01_a_LOD0"
+    ],
+    "materials": [
+      "fir_tree_01_bark",
+      "fir_tree_01_trunk_a",
+      "fir_tree_01_twig",
+      "fir_tree_01_dead_branches"
+    ],
+    "source": "https://polyhaven.com/a/fir_tree_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 4176819,
+    "triangles": 143121,
+    "bytes": 8712492
+  },
+  {
+    "id": "flower_empodium",
+    "nodes": [
+      "flower_empodium_a_LOD0"
+    ],
+    "materials": [
+      "flower_empodium"
+    ],
+    "source": "https://polyhaven.com/a/flower_empodium",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 758,
+    "triangles": 758,
+    "bytes": 252544
+  },
+  {
+    "id": "flower_gazania",
+    "nodes": [
+      "flower_gazania_a_LOD0"
+    ],
+    "materials": [
+      "flower_gazania"
+    ],
+    "source": "https://polyhaven.com/a/flower_gazania",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 416,
+    "triangles": 416,
+    "bytes": 510264
+  },
+  {
+    "id": "flower_stinkkruid",
+    "nodes": [
+      "flower_stinkkruid_a_LOD0"
+    ],
+    "materials": [
+      "flower_stinkkruid"
+    ],
+    "source": "https://polyhaven.com/a/flower_stinkkruid",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 39911,
+    "triangles": 5998,
+    "bytes": 747940
+  },
+  {
+    "id": "flower_ursinia",
+    "nodes": [
+      "flower_ursinia_a_LOD0"
+    ],
+    "materials": [
+      "flower_ursinia"
+    ],
+    "source": "https://polyhaven.com/a/flower_ursinia",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 10635,
+    "triangles": 6000,
+    "bytes": 658176
+  },
+  {
+    "id": "island_tree_02",
+    "nodes": [
+      "island_tree_02_LOD0"
+    ],
+    "materials": [
+      "island_tree_02",
+      "island_tree_02_leaves",
+      "island_tree_02_branches"
+    ],
+    "source": "https://polyhaven.com/a/island_tree_02",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 1072213,
+    "triangles": 78374,
+    "bytes": 6850104
+  },
+  {
+    "id": "magnifying_glass_01",
+    "nodes": [
+      "magnifying_glass_01"
+    ],
+    "materials": [
+      "magnifying_glass_01",
+      "magnifying_glass_01_lense"
+    ],
+    "source": "https://polyhaven.com/a/magnifying_glass_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 7240,
+    "triangles": 7240,
+    "bytes": 311112
+  },
+  {
+    "id": "modular_wooden_pier",
+    "nodes": [
+      "modular_wooden_pier_section_01"
+    ],
+    "materials": [
+      "modular_wooden_pier_planks",
+      "modular_wooden_pier_poles"
+    ],
+    "source": "https://polyhaven.com/a/modular_wooden_pier",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 23280,
+    "triangles": 12000,
+    "bytes": 831224
+  },
+  {
+    "id": "namaqualand_rocks_01",
+    "nodes": [
+      "namaqualand_rocks_02_a"
+    ],
+    "materials": [
+      "namaqualand_rocks_02"
+    ],
+    "source": "https://polyhaven.com/a/namaqualand_rocks_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 13582,
+    "triangles": 6000,
+    "bytes": 402288
+  },
+  {
+    "id": "nettle_plant",
+    "nodes": [
+      "nettle_plant_medium_a_LOD0"
+    ],
+    "materials": [
+      "nettle_plant"
+    ],
+    "source": "https://polyhaven.com/a/nettle_plant",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 5896,
+    "triangles": 5896,
+    "bytes": 655836
+  },
+  {
+    "id": "rock_moss_set_02",
+    "nodes": [
+      "rock_moss_set_02_rock08"
+    ],
+    "materials": [
+      "rock_moss_set_02"
+    ],
+    "source": "https://polyhaven.com/a/rock_moss_set_02",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 8000,
+    "triangles": 6000,
+    "bytes": 338768
+  },
+  {
+    "id": "sand_rocks_small_01",
+    "nodes": [
+      "sand_rocks_small_01_LOD0"
+    ],
+    "materials": [
+      "sand_rocks_small_01"
+    ],
+    "source": "https://polyhaven.com/a/sand_rocks_small_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 739469,
+    "triangles": 16000,
+    "bytes": 693948
+  },
+  {
+    "id": "shrub_01",
+    "nodes": [
+      "shrub_01_a"
+    ],
+    "materials": [
+      "shrub_01"
+    ],
+    "source": "https://polyhaven.com/a/shrub_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 156012,
+    "triangles": 8900,
+    "bytes": 907120
+  },
+  {
+    "id": "shrub_03",
+    "nodes": [
+      "shrub_03_a"
+    ],
+    "materials": [
+      "shrub_03"
+    ],
+    "source": "https://polyhaven.com/a/shrub_03",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 2385,
+    "triangles": 2385,
+    "bytes": 544968
+  },
+  {
+    "id": "shrub_04",
+    "nodes": [
+      "shrub_04"
+    ],
+    "materials": [
+      "shrub_04"
+    ],
+    "source": "https://polyhaven.com/a/shrub_04",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 27327,
+    "triangles": 8967,
+    "bytes": 713288
+  },
+  {
+    "id": "shrub_sorrel_01",
+    "nodes": [
+      "shrub_sorrel_01_a"
+    ],
+    "materials": [
+      "shrub_sorrel_01"
+    ],
+    "source": "https://polyhaven.com/a/shrub_sorrel_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 353,
+    "triangles": 353,
+    "bytes": 374652
+  },
+  {
+    "id": "stone_fire_pit",
+    "nodes": [
+      "stone_fire_pit"
+    ],
+    "materials": [
+      "stone_fire_pit"
+    ],
+    "source": "https://polyhaven.com/a/stone_fire_pit",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 3887,
+    "triangles": 3887,
+    "bytes": 302740
+  },
+  {
+    "id": "tree_small_02",
+    "nodes": [
+      "tree_small_02_LOD0"
+    ],
+    "materials": [
+      "tree_small_02_branches",
+      "tree_small_02_leaves",
+      "tree_small_02_trunk"
+    ],
+    "source": "https://polyhaven.com/a/tree_small_02",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 2062487,
+    "triangles": 80269,
+    "bytes": 6691016
+  },
+  {
+    "id": "tree_stump_01",
+    "nodes": [
+      "tree_stump_01"
+    ],
+    "materials": [
+      "tree_stump_01"
+    ],
+    "source": "https://polyhaven.com/a/tree_stump_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 41046,
+    "triangles": 6000,
+    "bytes": 446348
+  },
+  {
+    "id": "tree_stump_02",
+    "nodes": [
+      "tree_stump_02"
+    ],
+    "materials": [
+      "tree_stump_02"
+    ],
+    "source": "https://polyhaven.com/a/tree_stump_02",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 62345,
+    "triangles": 5996,
+    "bytes": 421348
+  },
+  {
+    "id": "vintage_pocket_watch",
+    "nodes": [
+      "vintage_pocket_watch",
+      "vintage_pocket_watch_hour_hand",
+      "vintage_pocket_watch_minute_hand",
+      "vintage_pocket_watch_second_hand"
+    ],
+    "materials": [
+      "vintage_pocket_watch_glass",
+      "vintage_pocket_watch",
+      "vintage_pocket_watch_hands"
+    ],
+    "source": "https://polyhaven.com/a/vintage_pocket_watch",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 16098,
+    "triangles": 7218,
+    "bytes": 397264
+  },
+  {
+    "id": "weed_plant_02",
+    "nodes": [
+      "weed_plant_02_a_LOD0"
+    ],
+    "materials": [
+      "weed_plant_02"
+    ],
+    "source": "https://polyhaven.com/a/weed_plant_02",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 2967,
+    "triangles": 2967,
+    "bytes": 537068
+  },
+  {
+    "id": "wicker_basket_01",
+    "nodes": [
+      "wicker_basket_01"
+    ],
+    "materials": [
+      "wicker_basket_01"
+    ],
+    "source": "https://polyhaven.com/a/wicker_basket_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 22276,
+    "triangles": 5960,
+    "bytes": 383460
+  },
+  {
+    "id": "wine_bottles_01",
+    "nodes": [
+      "wine_bottles_01_bordeaux"
+    ],
+    "materials": [
+      "wine_bottles_01_glass_orange",
+      "wine_bottles_01_seal_cork",
+      "wine_bottles_01_wine_red"
+    ],
+    "source": "https://polyhaven.com/a/wine_bottles_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 6456,
+    "triangles": 6456,
+    "bytes": 406676
+  },
+  {
+    "id": "wooden_axe_02",
+    "nodes": [
+      "wooden_axe_02"
+    ],
+    "materials": [
+      "wooden_axe_02"
+    ],
+    "source": "https://polyhaven.com/a/wooden_axe_02",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 2218,
+    "triangles": 2218,
+    "bytes": 211792
+  },
+  {
+    "id": "wooden_barrels_01",
+    "nodes": [
+      "wooden_barrels_01_barrel01"
+    ],
+    "materials": [
+      "wooden_barrels_01_barrel01"
+    ],
+    "source": "https://polyhaven.com/a/wooden_barrels_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 11184,
+    "triangles": 5999,
+    "bytes": 419672
+  },
+  {
+    "id": "wooden_bowl_02",
+    "nodes": [
+      "wooden_bowl_02"
+    ],
+    "materials": [
+      "wooden_bowl_02"
+    ],
+    "source": "https://polyhaven.com/a/wooden_bowl_02",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 4666,
+    "triangles": 4666,
+    "bytes": 343764
+  },
+  {
+    "id": "wooden_bucket_02",
+    "nodes": [
+      "wooden_bucket_02",
+      "wooden_bucket_02_handle_02",
+      "wooden_bucket_02_handle_01"
+    ],
+    "materials": [
+      "wooden_bucket_02"
+    ],
+    "source": "https://polyhaven.com/a/wooden_bucket_02",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 7252,
+    "triangles": 6679,
+    "bytes": 430420
+  },
+  {
+    "id": "wooden_crate_02",
+    "nodes": [
+      "wooden_crate_02_crate",
+      "wooden_crate_02_lid"
+    ],
+    "materials": [
+      "wooden_crate_02"
+    ],
+    "source": "https://polyhaven.com/a/wooden_crate_02",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 5176,
+    "triangles": 5176,
+    "bytes": 337988
+  },
+  {
+    "id": "wooden_hammer_01",
+    "nodes": [
+      "wooden_hammer_01"
+    ],
+    "materials": [
+      "wooden_hammer_01"
+    ],
+    "source": "https://polyhaven.com/a/wooden_hammer_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 3617,
+    "triangles": 3617,
+    "bytes": 246776
+  },
+  {
+    "id": "wooden_handle_saber",
+    "nodes": [
+      "wooden_handle_saber"
+    ],
+    "materials": [
+      "wooden_handle_saber"
+    ],
+    "source": "https://polyhaven.com/a/wooden_handle_saber",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 4031,
+    "triangles": 4031,
+    "bytes": 273260
+  },
+  {
+    "id": "wooden_stool_02",
+    "nodes": [
+      "wooden_stool_02"
+    ],
+    "materials": [
+      "wooden_stool_02"
+    ],
+    "source": "https://polyhaven.com/a/wooden_stool_02",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 11146,
+    "triangles": 6401,
+    "bytes": 373860
+  },
+  {
+    "id": "wooden_table_02",
+    "nodes": [
+      "wooden_table_02"
+    ],
+    "materials": [
+      "wooden_table_02"
+    ],
+    "source": "https://polyhaven.com/a/wooden_table_02",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 196,
+    "triangles": 196,
+    "bytes": 132988
+  },
+  {
+    "id": "periwinkle_plant",
+    "nodes": [
+      "periwinkle_plant_04_LOD0"
+    ],
+    "materials": [
+      "periwinkle_plant"
+    ],
+    "source": "https://polyhaven.com/a/periwinkle_plant",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 4108,
+    "triangles": 4108,
+    "bytes": 583484
+  },
+  {
+    "id": "bunker_shovel",
+    "name": "Shovel",
+    "author": "JamesWhite",
+    "source": "https://opengameart.org/content/shovel",
+    "download": "https://opengameart.org/sites/default/files/shovel_model_0.zip",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "changes": "OBJ converted to GLB, original supplied 256x256 texture attached, normalized to 1.35 m upright with blade tip at origin. No texture edits.",
+    "dimensions_gltf_xyz_m": [
+      0.0875,
+      1.35,
+      0.2157
+    ],
+    "orientation": "Y up; blade tip on y=0, handle toward +Y; thin axis X and blade width along Z.",
+    "triangles": 118,
+    "texture": "Original shovel_texture.png (256x256)",
+    "placement": "Bunker edge, blade slightly buried or leaning; not inside playable sand.",
+    "bytes": 87076
+  },
+  {
+    "id": "coast_land_rocks_02",
+    "nodes": [
+      "coast_land_rocks_02"
+    ],
+    "materials": [
+      "coast_land_rocks_02"
+    ],
+    "source": "https://polyhaven.com/a/coast_land_rocks_02",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 1291146,
+    "triangles": 5999,
+    "bytes": 3105448
+  },
+  {
+    "id": "coast_land_rocks_03",
+    "nodes": [
+      "coast_land_rocks_03"
+    ],
+    "materials": [
+      "coast_land_rocks_03"
+    ],
+    "source": "https://polyhaven.com/a/coast_land_rocks_03",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 1096655,
+    "triangles": 5999,
+    "bytes": 2990096
+  },
+  {
+    "id": "coast_rocks_01",
+    "nodes": [
+      "coast_rocks_01"
+    ],
+    "materials": [
+      "coast_rocks_01"
+    ],
+    "source": "https://polyhaven.com/a/coast_rocks_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 679936,
+    "triangles": 6000,
+    "bytes": 2554484
+  },
+  {
+    "id": "coast_rocks_05",
+    "nodes": [
+      "coast_rocks_05"
+    ],
+    "materials": [
+      "coast_rocks_05"
+    ],
+    "source": "https://polyhaven.com/a/coast_rocks_05",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 771724,
+    "triangles": 6000,
+    "bytes": 3376588
+  },
+  {
+    "id": "dead_tree_trunk_02",
+    "nodes": [
+      "dead_tree_trunk_02"
+    ],
+    "materials": [
+      "dead_tree_trunk_02"
+    ],
+    "source": "https://polyhaven.com/a/dead_tree_trunk_02",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 83128,
+    "triangles": 5994,
+    "bytes": 3132504
+  },
+  {
+    "id": "lambis_shell",
+    "nodes": [
+      "lambis_shell"
+    ],
+    "materials": [
+      "lambis_shell"
+    ],
+    "source": "https://polyhaven.com/a/lambis_shell",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 12498,
+    "triangles": 6000,
+    "bytes": 2130056
+  },
+  {
+    "id": "wine_barrel_01",
+    "nodes": [
+      "wine_barrel_01_Lid",
+      "wine_barrel_01_bung",
+      "wine_barrel_01",
+      "wine_barrel_01_base"
+    ],
+    "materials": [
+      "wine_barrel_01"
+    ],
+    "source": "https://polyhaven.com/a/wine_barrel_01",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 10820,
+    "triangles": 6615,
+    "bytes": 832736
+  },
+  {
+    "id": "wooden_picnic_table",
+    "source": "https://polyhaven.com/a/wooden_picnic_table",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 10210,
+    "triangles": 10210,
+    "bytes": 1444904
+  },
+  {
+    "id": "painted_wooden_bench",
+    "source": "https://polyhaven.com/a/painted_wooden_bench",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 630,
+    "triangles": 630,
+    "bytes": 634140
+  },
+  {
+    "id": "handsaw_wood",
+    "source": "https://polyhaven.com/a/handsaw_wood",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 2548,
+    "triangles": 2548,
+    "bytes": 928652
+  },
+  {
+    "id": "wooden_ladder_02",
+    "source": "https://polyhaven.com/a/wooden_ladder_02",
+    "license": "CC0-1.0",
+    "trianglesOriginal": 6126,
+    "triangles": 6126,
+    "bytes": 891440
+  }
+]

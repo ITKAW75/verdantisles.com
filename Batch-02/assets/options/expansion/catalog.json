@@ -1,0 +1,452 @@
+[
+  {
+    "id": "nettle_plant",
+    "name": "Nettle Plant",
+    "location": "Small groups in shaded forest rough, away from the walking line.",
+    "fit": "Serrated leaves and visible veins add close-up botanical detail.",
+    "caveat": "Keep sparse and outside maintained turf; use as wild foliage, not a hazard mechanic.",
+    "source": "https://polyhaven.com/a/nettle_plant",
+    "preview": "https://cdn.polyhaven.com/asset_img/primary/nettle_plant.png?height=360",
+    "group": "nature",
+    "apiStatus": 200,
+    "previewStatus": 200
+  },
+  {
+    "id": "periwinkle_plant",
+    "name": "Periwinkle Plant",
+    "location": "A few pink-flowering patches along the forest-to-beach discovery path.",
+    "fit": "Echoes the pink trees with real flower and leaf detail.",
+    "caveat": "Small accents rather than continuous ornamental borders.",
+    "source": "https://polyhaven.com/a/periwinkle_plant",
+    "preview": "https://cdn.polyhaven.com/asset_img/primary/periwinkle_plant.png?height=360",
+    "group": "nature",
+    "apiStatus": 200,
+    "previewStatus": 200
+  },
+  {
+    "id": "weed_plant_02",
+    "name": "Weed Plant 02",
+    "location": "Low patches between tree roots and the existing mossy rough.",
+    "fit": "Broad glossy leaves break up repeated grass tufts.",
+    "caveat": "Select greener variants; avoid excessive yellowing.",
+    "source": "https://polyhaven.com/a/weed_plant_02",
+    "preview": "https://cdn.polyhaven.com/asset_img/primary/weed_plant_02.png?height=360",
+    "group": "nature",
+    "apiStatus": 200,
+    "previewStatus": 200
+  },
+  {
+    "id": "island_tree_02",
+    "name": "Island Tree 02",
+    "location": "One windswept coastal tree behind the landing cove.",
+    "fit": "Gnarled wood and green broadleaf foliage suit a rugged pirate shoreline without palms.",
+    "caveat": "Scanned base needs careful burial and no overlap with rocks; optimize dense leaves.",
+    "source": "https://polyhaven.com/a/island_tree_02",
+    "preview": "https://cdn.polyhaven.com/asset_img/primary/island_tree_02.png?height=360",
+    "group": "nature",
+    "apiStatus": 200,
+    "previewStatus": 200
+  },
+  {
+    "id": "shrub_03",
+    "name": "Shrub 03",
+    "location": "Thin pockets of meadow growth at the outer rough edge.",
+    "fit": "Upright leaf shapes create a different silhouette from low grass.",
+    "caveat": "Use grouped natural patches, never on the fairway or in bunkers.",
+    "source": "https://polyhaven.com/a/shrub_03",
+    "preview": "https://cdn.polyhaven.com/asset_img/primary/shrub_03.png?height=360",
+    "group": "nature",
+    "apiStatus": 200,
+    "previewStatus": 200
+  },
+  {
+    "id": "shrub_04",
+    "name": "Shrub 04",
+    "location": "Small glossy-leaf clusters under tall pines.",
+    "fit": "A greener middle layer between ground cover and tree canopy.",
+    "caveat": "These are branch variants; cluster their bases convincingly.",
+    "source": "https://polyhaven.com/a/shrub_04",
+    "preview": "https://cdn.polyhaven.com/asset_img/primary/shrub_04.png?height=360",
+    "group": "nature",
+    "apiStatus": 200,
+    "previewStatus": 200
+  },
+  {
+    "id": "flower_gazania",
+    "name": "Flower Gazania",
+    "location": "A sunny pocket above the beach, beyond maintained sand.",
+    "fit": "Orange daisy-like flowers add a warm accent against the green forest.",
+    "caveat": "Keep the orange coverage restrained.",
+    "source": "https://polyhaven.com/a/flower_gazania",
+    "preview": "https://cdn.polyhaven.com/asset_img/primary/flower_gazania.png?height=360",
+    "group": "nature",
+    "apiStatus": 200,
+    "previewStatus": 200
+  },
+  {
+    "id": "flower_ursinia",
+    "name": "Flower Ursinia",
+    "location": "Low flower patches along the inland cove boundary.",
+    "fit": "Sprawling flowers give the ground a natural small-scale shape.",
+    "caveat": "An alternative to Gazania, or mix lightly; not a blanket flower meadow.",
+    "source": "https://polyhaven.com/a/flower_ursinia",
+    "preview": "https://cdn.polyhaven.com/asset_img/primary/flower_ursinia.png?height=360",
+    "group": "nature",
+    "apiStatus": 200,
+    "previewStatus": 200
+  },
+  {
+    "id": "flower_stinkkruid",
+    "name": "Flower Stinkkruid",
+    "location": "A few silver-green patches among coastal rocks.",
+    "fit": "Small yellow blooms and softer foliage vary the coast's palette.",
+    "caveat": "Grey-green leaves are less lush; reserve for the drier coast.",
+    "source": "https://polyhaven.com/a/flower_stinkkruid",
+    "preview": "https://cdn.polyhaven.com/asset_img/primary/flower_stinkkruid.png?height=360",
+    "group": "nature",
+    "apiStatus": 200,
+    "previewStatus": 200
+  },
+  {
+    "id": "fir_sapling",
+    "name": "Fir Sapling",
+    "location": "Young trees at forest edges and in clear gaps beneath mature trees.",
+    "fit": "Mixed tree ages make the forest feel naturally grown.",
+    "caveat": "Use lower-detail variants and prevent low branches blocking trails.",
+    "source": "https://polyhaven.com/a/fir_sapling",
+    "preview": "https://cdn.polyhaven.com/asset_img/primary/fir_sapling.png?height=360",
+    "group": "nature",
+    "apiStatus": 200,
+    "previewStatus": 200
+  },
+  {
+    "id": "fir_tree_01",
+    "name": "Fir Tree 01",
+    "location": "A few tall canopy anchors behind the course and on distant islands.",
+    "fit": "Detailed high crowns and trunks reinforce the tall-forest silhouette.",
+    "caveat": "Very heavy source model; reduced geometry and texture sizes are required for mobile.",
+    "source": "https://polyhaven.com/a/fir_tree_01",
+    "preview": "https://cdn.polyhaven.com/asset_img/primary/fir_tree_01.png?height=360",
+    "group": "nature",
+    "apiStatus": 200,
+    "previewStatus": 200
+  },
+  {
+    "id": "tree_small_02",
+    "name": "Tree Small 02",
+    "location": "One or two broadleaf trees between pine groups.",
+    "fit": "An airy green crown breaks the repeated conifer silhouette.",
+    "caveat": "Heavy source model needs optimization; preserve the current forest composition.",
+    "source": "https://polyhaven.com/a/tree_small_02",
+    "preview": "https://cdn.polyhaven.com/asset_img/primary/tree_small_02.png?height=360",
+    "group": "nature",
+    "apiStatus": 200,
+    "previewStatus": 200
+  },
+  {
+    "id": "crystalline_iceplant",
+    "name": "Crystalline Iceplant",
+    "location": "Small succulent patches where rocky land meets the beach.",
+    "fit": "Low fleshy leaves make the coastal transition believable.",
+    "caveat": "Coastal accent only; not a replacement for lush inland grass.",
+    "source": "https://polyhaven.com/a/crystalline_iceplant",
+    "preview": "https://cdn.polyhaven.com/asset_img/primary/crystalline_iceplant.png?height=360",
+    "group": "nature",
+    "apiStatus": 200,
+    "previewStatus": 200
+  },
+  {
+    "id": "namaqualand_rocks_01",
+    "name": "Namaqualand Rocks 01",
+    "location": "Small mixed stones beside major shoreline boulders.",
+    "fit": "Quartz-rich colour and multiple shapes reduce repeated-rock appearance.",
+    "caveat": "Keep near natural size and partially bury; do not scale into enormous cliffs.",
+    "source": "https://polyhaven.com/a/namaqualand_rocks_01",
+    "preview": "https://cdn.polyhaven.com/asset_img/primary/namaqualand_rocks_01.png?height=360",
+    "group": "nature",
+    "apiStatus": 200,
+    "previewStatus": 200
+  },
+  {
+    "id": "tree_stump_01",
+    "name": "Tree Stump 01",
+    "location": "A single mossy stump in the wild wooded edge.",
+    "fit": "Scanned bark and moss add a close-up point of natural detail.",
+    "caveat": "Brown litter and the scan apron need trimming or burial; keep it isolated so the floor stays green.",
+    "source": "https://polyhaven.com/a/tree_stump_01",
+    "preview": "https://cdn.polyhaven.com/asset_img/primary/tree_stump_01.png?height=360",
+    "group": "nature",
+    "apiStatus": 200,
+    "previewStatus": 200
+  },
+  {
+    "id": "wooden_crate_02",
+    "name": "Wooden Crate 02",
+    "location": "Cargo beside the barrels, between ship and chest.",
+    "fit": "Rope handles and weathered timber reinforce freshly unloaded supplies.",
+    "caveat": "Use one or two; keep beach approach open.",
+    "group": "cove",
+    "source": "https://polyhaven.com/a/wooden_crate_02",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_crate_02.png?width=512&height=512&format=webp&v=067477fc",
+    "license": "CC0",
+    "polycount": 5176,
+    "verified": {
+      "info": 200,
+      "files": 200,
+      "preview": 200,
+      "gltf": true
+    }
+  },
+  {
+    "id": "wicker_basket_01",
+    "name": "Wicker Basket 01",
+    "location": "At the edge of the unloading pile.",
+    "fit": "Natural woven fibers soften the hard timber and metal props.",
+    "caveat": "One basket is enough; avoid scattering campsite clutter.",
+    "group": "cove",
+    "source": "https://polyhaven.com/a/wicker_basket_01",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/wicker_basket_01.png?width=512&height=512&format=webp&v=a8ab4dd6",
+    "license": "CC0",
+    "polycount": 22276,
+    "verified": {
+      "info": 200,
+      "files": 200,
+      "preview": 200,
+      "gltf": true
+    }
+  },
+  {
+    "id": "ceramic_pot",
+    "name": "Ceramic Pot",
+    "location": "Packed beside the supply crate.",
+    "fit": "Worn earthenware reads as provisions brought ashore.",
+    "caveat": "Keep it among cargo, rather than staging an established kitchen.",
+    "group": "cove",
+    "source": "https://polyhaven.com/a/ceramic_pot",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/ceramic_pot.png?width=512&height=512&format=webp&v=2b85aca4",
+    "license": "CC0",
+    "polycount": 3592,
+    "verified": {
+      "info": 200,
+      "files": 200,
+      "preview": 200,
+      "gltf": true
+    }
+  },
+  {
+    "id": "wine_bottles_01",
+    "name": "Wine Bottles 01",
+    "location": "One or two bottles tucked into cargo.",
+    "fit": "Dark glass catches the existing warm light and suggests ship provisions.",
+    "caveat": "Modern labels need removal or replacement; keep glass shading inexpensive.",
+    "group": "cove",
+    "source": "https://polyhaven.com/a/wine_bottles_01",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/wine_bottles_01.png?width=512&height=512&format=webp&v=ff1e806c",
+    "license": "CC0",
+    "polycount": 28848,
+    "verified": {
+      "info": 200,
+      "files": 200,
+      "preview": 200,
+      "gltf": true
+    }
+  },
+  {
+    "id": "wooden_axe_02",
+    "name": "Wooden Axe 02",
+    "location": "Resting securely against the supply crate.",
+    "fit": "Weathered wood and iron fit practical exploration gear.",
+    "caveat": "One tool, outside the golf and walking lanes.",
+    "group": "cove",
+    "source": "https://polyhaven.com/a/wooden_axe_02",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_axe_02.png?width=512&height=512&format=webp&v=085baa27",
+    "license": "CC0",
+    "polycount": 2218,
+    "verified": {
+      "info": 200,
+      "files": 200,
+      "preview": 200,
+      "gltf": true
+    }
+  },
+  {
+    "id": "wooden_hammer_01",
+    "name": "Wooden Hammer 01",
+    "location": "On a crate beside the boat.",
+    "fit": "A small repair tool makes the landing feel purposeful.",
+    "caveat": "Mute paint flecks if they read too modern; this is a small close-up detail.",
+    "group": "cove",
+    "source": "https://polyhaven.com/a/wooden_hammer_01",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_hammer_01.png?width=512&height=512&format=webp&v=943e00ed",
+    "license": "CC0",
+    "polycount": 3617,
+    "verified": {
+      "info": 200,
+      "files": 200,
+      "preview": 200,
+      "gltf": true
+    }
+  },
+  {
+    "id": "wooden_table_02",
+    "name": "Wooden Table 02",
+    "location": "A small navigation station above the beach.",
+    "fit": "A simple timber surface can support the existing compass and a few finds.",
+    "caveat": "More established than loose cargo; use only if you want a temporary shore base.",
+    "group": "cove",
+    "source": "https://polyhaven.com/a/wooden_table_02",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_table_02.png?width=512&height=512&format=webp&v=005eb841",
+    "license": "CC0",
+    "polycount": 196,
+    "verified": {
+      "info": 200,
+      "files": 200,
+      "preview": 200,
+      "gltf": true
+    }
+  },
+  {
+    "id": "wooden_handle_saber",
+    "name": "Wooden Handle Saber",
+    "location": "Leaning beside the chest or cannon supplies.",
+    "fit": "A restrained pirate prop that ties the cargo to the ship.",
+    "caveat": "Decorative only; avoid implying combat mechanics.",
+    "group": "cove",
+    "source": "https://polyhaven.com/a/wooden_handle_saber",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_handle_saber.png?width=512&height=512&format=webp&v=1120569f",
+    "license": "CC0",
+    "polycount": 4031,
+    "verified": {
+      "info": 200,
+      "files": 200,
+      "preview": 200,
+      "gltf": true
+    }
+  },
+  {
+    "id": "wooden_stool_02",
+    "name": "Wooden Stool 02",
+    "location": "Beside the proposed navigation table.",
+    "fit": "Rough handmade timber matches the grounded cove materials.",
+    "caveat": "Optional companion piece; skip if the beach should feel freshly reached.",
+    "group": "cove",
+    "source": "https://polyhaven.com/a/wooden_stool_02",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_stool_02.png?width=512&height=512&format=webp&v=947892d3",
+    "license": "CC0",
+    "polycount": 11146,
+    "verified": {
+      "info": 200,
+      "files": 200,
+      "preview": 200,
+      "gltf": true
+    }
+  },
+  {
+    "id": "wooden_bowl_02",
+    "name": "Wooden Bowl 02",
+    "location": "Inside the cargo cluster or on the navigation table.",
+    "fit": "Carved wood adds tactile detail with no modern branding.",
+    "caveat": "Small decorative accent, not a field of repeated bowls.",
+    "group": "cove",
+    "source": "https://polyhaven.com/a/wooden_bowl_02",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_bowl_02.png?width=512&height=512&format=webp&v=850df4e1",
+    "license": "CC0",
+    "polycount": 4666,
+    "verified": {
+      "info": 200,
+      "files": 200,
+      "preview": 200,
+      "gltf": true
+    }
+  },
+  {
+    "id": "brass_pot_01",
+    "name": "Brass Pot 01",
+    "location": "Packed near the barrel group.",
+    "fit": "Warm aged metal complements the compass, lantern, and chest.",
+    "caveat": "Keep it cargo; no active cooking scene on the beach.",
+    "group": "cove",
+    "source": "https://polyhaven.com/a/brass_pot_01",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/brass_pot_01.png?width=512&height=512&format=webp&v=f903e2d3",
+    "license": "CC0",
+    "polycount": 3760,
+    "verified": {
+      "info": 200,
+      "files": 200,
+      "preview": 200,
+      "gltf": true
+    }
+  },
+  {
+    "id": "vintage_pocket_watch",
+    "name": "Vintage Pocket Watch",
+    "location": "Beside the compass on a single crate.",
+    "fit": "An ornate little discovery object suits the exploration story.",
+    "caveat": "Tiny at normal scale; best for a close-up or later inspect interaction.",
+    "group": "cove",
+    "source": "https://polyhaven.com/a/vintage_pocket_watch",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/vintage_pocket_watch.png?width=512&height=512&format=webp&v=8d14c3ae",
+    "license": "CC0",
+    "polycount": 4200,
+    "verified": {
+      "info": 200,
+      "files": 200,
+      "preview": 200,
+      "gltf": true
+    }
+  },
+  {
+    "id": "magnifying_glass_01",
+    "name": "Magnifying Glass 01",
+    "location": "On the navigation crate beside the watch.",
+    "fit": "Suggests studying discoveries rather than permanently settling the island.",
+    "caveat": "Skip costly real-time lens refraction on mobile.",
+    "group": "cove",
+    "source": "https://polyhaven.com/a/magnifying_glass_01",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/magnifying_glass_01.png?width=512&height=512&format=webp&v=25545885",
+    "license": "CC0",
+    "polycount": 7240,
+    "verified": {
+      "info": 200,
+      "files": 200,
+      "preview": 200,
+      "gltf": true
+    }
+  },
+  {
+    "id": "modular_wooden_pier",
+    "name": "Modular Wooden Pier",
+    "location": "One short landing section beside the ship, if desired.",
+    "fit": "Worn planks, rope, and pilings match the existing Smuggler’s Cove assets.",
+    "caveat": "Optional infrastructure: implies a previous visitor; use one small section and add walkable collision.",
+    "group": "cove",
+    "source": "https://polyhaven.com/a/modular_wooden_pier",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/modular_wooden_pier.png?width=512&height=512&format=webp&v=03033d74",
+    "license": "CC0",
+    "polycount": 84780,
+    "verified": {
+      "info": 200,
+      "files": 200,
+      "preview": 200,
+      "gltf": true
+    }
+  },
+  {
+    "id": "brass_goblets",
+    "name": "Brass Goblets",
+    "location": "One or two beside the treasure chest.",
+    "fit": "A small glint of recovered treasure strengthens the pirate theme.",
+    "caveat": "Choose a couple, not a banquet; keep metal roughness naturally worn.",
+    "group": "cove",
+    "source": "https://polyhaven.com/a/brass_goblets",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/brass_goblets.png?width=512&height=512&format=webp&v=d186073b",
+    "license": "CC0",
+    "polycount": 9600,
+    "verified": {
+      "info": 200,
+      "files": 200,
+      "preview": 200,
+      "gltf": true
+    }
+  }
+]

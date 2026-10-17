@@ -1,0 +1,230 @@
+[
+  {
+    "id": "ace99fb589734464bda00687bbcedc6d",
+    "name": "Amethyst crystal scan",
+    "source": "https://sketchfab.com/3d-models/amethyst-crystal-ace99fb589734464bda00687bbcedc6d",
+    "preview": "https://media.sketchfab.com/models/ace99fb589734464bda00687bbcedc6d/thumbnails/3e48e9ee231b49e1b9585101ffdbc882/b62f211c830c44ccb92fa4ada6b9d4d3.jpeg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+    "author": "Eydeet",
+    "fit": "Half-buried purple crystal beside a shaded rock, with restrained inner glow.",
+    "caveat": "A 1,000-triangle scan; add glow through our material, not a large light.",
+    "triangles": 1000,
+    "animations": 0,
+    "downloadable": true,
+    "downloadNote": "Official download may require a free Sketchfab account; no model downloaded in this review.",
+    "verified": {
+      "metadata": 200,
+      "preview": 200
+    },
+    "localPreview": "assets/options/fantasy/ace99fb589734464bda00687bbcedc6d.webp",
+    "number": 1
+  },
+  {
+    "id": "718844b5aefa4c8dabd6350ffe4bdb6e",
+    "name": "Natural amethyst specimen",
+    "source": "https://sketchfab.com/3d-models/amethyst-crystal-718844b5aefa4c8dabd6350ffe4bdb6e",
+    "preview": "https://media.sketchfab.com/models/718844b5aefa4c8dabd6350ffe4bdb6e/thumbnails/12c64afb71ec48dfae3cbb8e07cb721e/e974de3ac8854ad6aba227d1e62e797c.jpeg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+    "author": "RISD Nature Lab",
+    "fit": "A subtle mineral discovery tucked into the forest rocks, with a restrained magical highlight.",
+    "caveat": "123,900 triangles in source; decimate and bake before mobile use.",
+    "triangles": 123856,
+    "animations": 0,
+    "downloadable": true,
+    "downloadNote": "Official download may require a free Sketchfab account; no model downloaded in this review.",
+    "verified": {
+      "metadata": 200,
+      "preview": 200
+    },
+    "localPreview": "assets/options/fantasy/718844b5aefa4c8dabd6350ffe4bdb6e.webp",
+    "number": 2
+  },
+  {
+    "id": "e920cf6b57d642a3a03c76c847031f1f",
+    "name": "Crystal cluster",
+    "source": "https://sketchfab.com/3d-models/crystal-cluster-e920cf6b57d642a3a03c76c847031f1f",
+    "preview": "https://media.sketchfab.com/models/e920cf6b57d642a3a03c76c847031f1f/thumbnails/168cba166c4c4679b5e9f208c4358ca6/ac68c05652a14df5b704c15eb6a0ef76.jpeg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+    "author": "WinterPrison",
+    "fit": "A few pale blue crystals around one remote island formation.",
+    "caveat": "Stylized geometry; use rough translucent stone materials and modest scale to match realism.",
+    "triangles": 1307,
+    "animations": 0,
+    "downloadable": true,
+    "downloadNote": "Official download may require a free Sketchfab account; no model downloaded in this review.",
+    "verified": {
+      "metadata": 200,
+      "preview": 200
+    },
+    "localPreview": "assets/options/fantasy/e920cf6b57d642a3a03c76c847031f1f.webp",
+    "number": 3
+  },
+  {
+    "id": "22b5bf4132a74e26887010eb02f7339d",
+    "name": "Woodland fairy",
+    "source": "https://sketchfab.com/3d-models/fairy-22b5bf4132a74e26887010eb02f7339d",
+    "preview": "https://media.sketchfab.com/models/22b5bf4132a74e26887010eb02f7339d/thumbnails/63e4954595f848f8b00c32f3db993637/32deeb9ce5184eb6bcb75e5ea33636da.jpeg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+    "author": "Jels",
+    "fit": "One small fairy drifting above the wooded path or beside the pink tree.",
+    "caveat": "30,282 triangles with alpha wings; reduce textures and inspect its single animation before adding.",
+    "triangles": 30282,
+    "animations": 1,
+    "downloadable": true,
+    "downloadNote": "Official download may require a free Sketchfab account; no model downloaded in this review.",
+    "verified": {
+      "metadata": 200,
+      "preview": 200
+    },
+    "localPreview": "assets/options/fantasy/22b5bf4132a74e26887010eb02f7339d.webp",
+    "number": 4
+  },
+  {
+    "id": "d5a9b0df4da3493688b63ce42c8a83e2",
+    "name": "Animated crow",
+    "source": "https://sketchfab.com/3d-models/crow-d5a9b0df4da3493688b63ce42c8a83e2",
+    "preview": "https://media.sketchfab.com/models/d5a9b0df4da3493688b63ce42c8a83e2/thumbnails/c9eb5130a8cc4df2b7df443e4a8e482f/5d594ba7dfaa4f2abd993d7a7dd5706a.jpeg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+    "author": "Alexei Ostapenko",
+    "fit": "A dark bird crossing the canopy or perching near old stone.",
+    "caveat": "2,208 triangles and one animation; inspect loop and avoid synchronized flapping.",
+    "triangles": 2208,
+    "animations": 1,
+    "downloadable": true,
+    "downloadNote": "Official download may require a free Sketchfab account; no model downloaded in this review.",
+    "verified": {
+      "metadata": 200,
+      "preview": 200
+    },
+    "localPreview": "assets/options/fantasy/d5a9b0df4da3493688b63ce42c8a83e2.webp",
+    "number": 5
+  },
+  {
+    "id": "dc42ffc81c86480e9e7f7752fa134174",
+    "name": "Flying seagull",
+    "source": "https://sketchfab.com/3d-models/seagull-dc42ffc81c86480e9e7f7752fa134174",
+    "preview": "https://media.sketchfab.com/models/dc42ffc81c86480e9e7f7752fa134174/thumbnails/63f7d48036944e29a0245fa5ea136d11/219a8e8b878344a8b3de2b42ba3808bd.jpeg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+    "author": "Dayvable",
+    "fit": "Two or three distant gulls circling the ship and cove.",
+    "caveat": "Creator explicitly recommends medium-to-distant shots; not a close-up hero animal.",
+    "triangles": 4352,
+    "animations": 1,
+    "downloadable": true,
+    "downloadNote": "Official download may require a free Sketchfab account; no model downloaded in this review.",
+    "verified": {
+      "metadata": 200,
+      "preview": 200
+    },
+    "localPreview": "assets/options/fantasy/dc42ffc81c86480e9e7f7752fa134174.webp",
+    "number": 6
+  },
+  {
+    "id": "1aa38beb0c3049a188edf2096a9731fb",
+    "name": "Ancient runestone",
+    "source": "https://sketchfab.com/3d-models/runestone-1aa38beb0c3049a188edf2096a9731fb",
+    "preview": "https://media.sketchfab.com/models/1aa38beb0c3049a188edf2096a9731fb/thumbnails/16d839ea841942288a061cd5193970a7/ea7516a5e8894da78834030dab92ef1f.jpeg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+    "author": "Rob Ortiz",
+    "fit": "One weathered discovery inside the forest, softly lit markings.",
+    "caveat": "Source is a complete small ruin scene; extract one standing stone or use the entire shrine once. Inspect texture easter eggs before shipping.",
+    "triangles": 10122,
+    "animations": 0,
+    "downloadable": true,
+    "downloadNote": "Official download may require a free Sketchfab account; no model downloaded in this review.",
+    "verified": {
+      "metadata": 200,
+      "preview": 200
+    },
+    "localPreview": "assets/options/fantasy/1aa38beb0c3049a188edf2096a9731fb.webp",
+    "number": 7
+  },
+  {
+    "id": "c865fb845bac42c7939da06d4617b7b1",
+    "name": "Scanned mushroom collection",
+    "source": "https://sketchfab.com/3d-models/lowpoly-mushrooms-c865fb845bac42c7939da06d4617b7b1",
+    "preview": "https://media.sketchfab.com/models/c865fb845bac42c7939da06d4617b7b1/thumbnails/328487f55ba84be79b291f659bab6c5e/6d73629e3a474208802b9d0b0bb73568.jpeg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+    "author": "Lo\u00efc Norgeot",
+    "fit": "Small believable mushrooms around damp roots; a few softly glowing caps could bridge into fantasy.",
+    "caveat": "16 specimens, about 1,000 triangles each; retain original scanner credits as well as Loic Norgeot.",
+    "triangles": 16000,
+    "animations": 0,
+    "downloadable": true,
+    "downloadNote": "Official download may require a free Sketchfab account; no model downloaded in this review.",
+    "verified": {
+      "metadata": 200,
+      "preview": 200
+    },
+    "localPreview": "assets/options/fantasy/c865fb845bac42c7939da06d4617b7b1.webp",
+    "number": 8
+  },
+  {
+    "id": "gothic_statue",
+    "name": "Weathered guardian statue",
+    "source": "https://polyhaven.com/a/gothic_statue",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/gothic_statue.png?width=768&height=768",
+    "license": "CC0",
+    "licenseUrl": "https://polyhaven.com/license",
+    "author": "Benny Weimer",
+    "fit": "One mossy guardian at a hidden woodland ruin.",
+    "caveat": "Dark gothic character; optional if we want a mysterious edge, not repeated around the course.",
+    "triangles": 27739,
+    "downloadable": true,
+    "downloadNote": "Direct public model download available through Poly Haven.",
+    "verified": {
+      "metadata": 200,
+      "preview": 200
+    },
+    "localPreview": "assets/options/fantasy/gothic_statue.webp",
+    "number": 9
+  },
+  {
+    "id": "bronze_ray_statue",
+    "name": "Bronze ray relic",
+    "source": "https://polyhaven.com/a/bronze_ray_statue",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/bronze_ray_statue.png?width=768&height=768",
+    "license": "CC0",
+    "licenseUrl": "https://polyhaven.com/license",
+    "author": "Tina",
+    "fit": "A nautical artifact tucked among the captain\u2019s discoveries.",
+    "caveat": "A decorative statue rather than a creature; use once at hand-sized scale.",
+    "triangles": 1844,
+    "downloadable": true,
+    "downloadNote": "Direct public model download available through Poly Haven.",
+    "verified": {
+      "metadata": 200,
+      "preview": 200
+    },
+    "localPreview": "assets/options/fantasy/bronze_ray_statue.webp",
+    "number": 10
+  },
+  {
+    "id": "bronze_whale_statue",
+    "name": "Bronze whale relic",
+    "source": "https://polyhaven.com/a/bronze_whale_statue",
+    "preview": "https://cdn.polyhaven.com/asset_img/thumbs/bronze_whale_statue.png?width=768&height=768",
+    "license": "CC0",
+    "licenseUrl": "https://polyhaven.com/license",
+    "author": "Tina",
+    "fit": "A sea-spirit ornament beside navigation gear or treasure.",
+    "caveat": "Keep small and singular; floating or magical motion would be our custom animation.",
+    "triangles": 3816,
+    "downloadable": true,
+    "downloadNote": "Direct public model download available through Poly Haven.",
+    "verified": {
+      "metadata": 200,
+      "preview": 200
+    },
+    "localPreview": "assets/options/fantasy/bronze_whale_statue.webp",
+    "number": 11
+  }
+]

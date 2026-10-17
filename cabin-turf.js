@@ -1,0 +1,20 @@
+export function cabinTurf(renderer){
+ const {B}=renderer,m=renderer.material('cabin-living-turf',[1,1,1],null,1);
+
+ class KeepSurface extends B.MaterialPluginBase{getClassName(){return "VerdantHighlandSurface";}
+  constructor(){super(m,'KeepSurface',200,{});this._enable(true);}
+  getSamplers(s){s.push('keepGrass','keepSand','keepForest','keepNormal','keepCover','keepMoss','keepCoverN','keepMossN');}
+  getActiveTextures(a){for(const f of ['cove-grass.jpg','cove-sand.jpg','forest_ground_06-Diffuse.jpg','cove-grass-normal.jpg','coastal-atlas-Diffuse.jpg','aerial_grass_rock-Diffuse.jpg','coastal-atlas-nor_gl.jpg','aerial_grass_rock-nor_gl.jpg'])a.push(renderer.texture(f));}
+  isReadyForSubMesh(){const textures=[];this.getActiveTextures(textures);return textures.every(t=>t.isReady());}
+  bindForSubMesh(u){for(const [n,f]of [['keepGrass','cove-grass.jpg'],['keepSand','cove-sand.jpg'],['keepForest','forest_ground_06-Diffuse.jpg'],['keepNormal','cove-grass-normal.jpg'],['keepCover','coastal-atlas-Diffuse.jpg'],['keepMoss','aerial_grass_rock-Diffuse.jpg'],['keepCoverN','coastal-atlas-nor_gl.jpg'],['keepMossN','aerial_grass_rock-nor_gl.jpg']])u.setTexture(n,renderer.texture(f));}
+  getAttributes(a){a.push('courseMasks');}
+  getCustomCode(type){if(type==='vertex')return{CUSTOM_VERTEX_DEFINITIONS:'attribute vec4 courseMasks; varying vec4 vHighMasks;',CUSTOM_VERTEX_MAIN_END:'vHighMasks=courseMasks;'};if(type!=='fragment')return null;return{
+   CUSTOM_FRAGMENT_DEFINITIONS:`varying vec4 vHighMasks;uniform sampler2D keepGrass;uniform sampler2D keepSand;uniform sampler2D keepForest;uniform sampler2D keepNormal;uniform sampler2D keepCover;uniform sampler2D keepMoss;uniform sampler2D keepCoverN;uniform sampler2D keepMossN; vec2 keepCoverUV(vec2 p,float tile){return ((1.-abs(mod(p,2.)-1.))*.90+.05+vec2(mod(tile,3.),floor(tile/3.)))/vec2(3.,2.);}
+`,
+   CUSTOM_FRAGMENT_UPDATE_ALBEDO:`vec2 kp=vec2(vPositionW.x-1185.,vPositionW.z+1240.);float grain=dot(texture2D(keepGrass,kp*.23).rgb,vec3(.299,.587,.114));float fair=vHighMasks.x,green=vHighMasks.y,fringe=vHighMasks.z,sand=max(vHighMasks.w,1.-smoothstep(-3.8,-2.0,vPositionW.y));vec3 forest=texture2D(keepForest,kp*.35).rgb;float leaf=dot(forest,vec3(.299,.587,.114));vec3 forestSample=texture2D(keepCover,keepCoverUV(kp*.40,0.)).rgb,mossSample=texture2D(keepMoss,kp*.12).rgb;float cover=smoothstep(.24,.62,texture2D(keepGrass,kp*.035).r),mossLuma=dot(mossSample,vec3(.299,.587,.114));vec3 livingLeaf=mix(forestSample*vec3(.66,.91,.46),vec3(.075,.145,.030),.14),livingMoss=mix(vec3(.033,.068,.014),vec3(.12,.24,.038),clamp(mossLuma*1.7,0.,1.));vec3 rough=mix(livingLeaf,livingMoss,cover*.18)*(.91+grain*.20);float woods=(1.-fair),mottling=smoothstep(.35,.60,texture2D(keepGrass,kp*.08).r);rough=mix(rough,texture2D(keepCover,keepCoverUV(kp*.32,3.)).rgb*vec3(.67,.86,.47),woods*mottling*.27);float stripe=smoothstep(-.13,.13,sin((kp.y+kp.x*.32)*.70));vec3 fairway=mix(vec3(.075,.235,.032),vec3(.115,.30,.047),stripe)*(.78+grain*.48);surfaceAlbedo=mix(rough,fairway,fair);surfaceAlbedo=mix(surfaceAlbedo,vec3(.10,.25,.026),fringe);surfaceAlbedo=mix(surfaceAlbedo,vec3(.18,.38,.064)*(.91+grain*.18)*(1.+.035*sin((vPositionW.x*.7+vPositionW.z)*1.35)),green);vec3 sandColor=mix(vec3(.55,.40,.22),vec3(.78,.65,.43),dot(texture2D(keepSand,kp*.17).rgb,vec3(.299,.587,.114)));float cliff=(1.-smoothstep(.70,.93,abs(normalize(vNormalW).y)))*(1.-fair)*(1.-green);vec3 cr=texture2D(keepMoss,vec2(kp.x*.12,vPositionW.y*.16)).rgb;surfaceAlbedo=mix(surfaceAlbedo,cr*vec3(.70,.76,.62),cliff*.94);surfaceAlbedo=mix(surfaceAlbedo,sandColor,sand);`,
+   CUSTOM_FRAGMENT_BEFORE_LIGHTS:`vec2 np=vPositionW.xz;float coverN=smoothstep(.24,.62,texture2D(keepGrass,np*.035).r);vec3 kn=mix(texture2D(keepCoverN,keepCoverUV(np*.40,0.)).xyz,texture2D(keepMossN,np*.12).xyz,coverN*.65)*2.-1.;float kg=2.-vHighMasks.y*2.;normalW=normalize(normalW+vec3(kn.x,0.,kn.y)*smoothstep(1.1,1.5,kg)*(1.-vHighMasks.x)*(1.-vHighMasks.w)*smoothstep(-.5,.5,vPositionW.y)*.48);`
+  };}
+ }
+ new KeepSurface();return m;
+}
+

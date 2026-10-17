@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no"><meta name="theme-color" content="#9cbaa9"><meta name="description" content="A quiet round above the clouds. Wander an ancient floating garden and play a little golf."><link rel="icon" href="data:,">
+<title>Verdant Isles — A quiet round</title><link rel="stylesheet" href="style.css"></head>
+<body>
+<canvas tabindex="0" id="world" aria-label="Walkable three-dimensional fantasy golf course"></canvas>
+<div class="vignette" aria-hidden="true"></div>
+<header><div class="wordmark">VERDANT <span>ISLES</span><small id="chapter">SMUGGLER’S GREEN</small></div><button id="menuButton" class="icon" aria-label="Pause and settings">Ⅱ</button></header>
+<div id="intro" class="veil"><div class="intro-copy"><div class="eyebrow">A QUIET ROUND BESIDE THE SEA</div><h1>Take the<br>long way.</h1><p>A sheltered cove. A wandering path.<br>And a little golf along the way.</p><button id="enter" class="primary" disabled>Enter the garden <span>↗</span></button><small id="introControls">Walk with WASD · Drag to look</small></div><div class="edition">VERDANT ISLES <span>FIVE CONNECTED HOLES · 32</span></div></div>
+<div id="hint" role="status" aria-live="polite"></div>
+<div id="crosshair" aria-hidden="true">·</div>
+<div id="joystick" aria-hidden="true"><div id="stick"></div></div>
+<button id="cartToggle" class="hidden" aria-pressed="false">Enter cart · C</button>
+<button id="rangeToggle" class="hidden" aria-pressed="false">Rangefinder · R</button>
+<div id="rangeView" class="hidden" aria-label="Rangefinder view"><div class="range-reticle" aria-hidden="true"></div><div class="range-readout"><strong id="rangeDistance">—</strong><span id="rangeDetail">Aim at land, an object or the pin</span><small>R to lower · Drag to look · Distances from your viewpoint</small></div></div>
+<div id="lookHint">DRAG TO LOOK</div>
+<button id="approach" class="primary hidden">Play ball <span>↗</span></button>
+<section id="shot" class="hidden" aria-label="Golf controls">
+ <div class="shot-top"><span id="shotInfo">FIRST GARDEN · PAR 3</span><button id="walk" aria-label="Return to walking">Keep wandering ↗</button></div>
+ <div class="clubs" aria-label="Club"><button data-club="wood">Woods</button><button data-club="iron">Irons</button><button data-club="wedge" class="selected">Wedges</button><button data-club="putter">Putter</button></div>
+ <button id="shotShape" class="flight-shape">Flight: Fade</button><div id="distances" aria-label="Club selection, shortest to longest"></div>
+ <div class="power-label"><label for="power">Power <output id="powerValue" for="power">85%</output></label><span id="clubDetail"></span></div>
+ <button id="power" type="button" aria-label="Start swing"><span class="power-track"><span class="power-marker"></span></span></button>
+ <div class="shot-bottom"><button id="aimLeft" aria-label="Aim left">←</button><span id="aimLabel">AIM</span><button id="aimRight" aria-label="Aim right">→</button><button id="hit" class="primary">Start swing <span>↗</span></button></div>
+ <div class="wind"><span id="windText">Gentle breeze · no rush</span><button id="greenRead" class="hidden" aria-pressed="false">Read green</button></div>
+</section>
+<button id="walkGreenRead" class="hidden" aria-pressed="false">Read green</button>
+<dialog id="settings"><button id="closeSettings" class="close" aria-label="Close settings">×</button><h2>Instructions</h2><p id="help">WASD to walk. Drag to look around. Walk to your ball and select Play ball.</p><label>Ambient sound<button id="audioToggle" aria-pressed="false">Off</button></label><label>Render quality<button id="quality">Balanced</button></label><label>Camera sway<button id="motion" aria-pressed="true">On</button></label><p class="asset-credit">Scenery by <a href="https://polyhaven.com" target="_blank" rel="noopener">Poly Haven</a> and <a href="https://opengameart.org/content/shovel" target="_blank" rel="noopener">JamesWhite</a> · CC0</p><p class="asset-credit">Flying seagull by <a href="https://poly.pizza/m/6Tpj_vcWP3f" target="_blank" rel="noopener">Poly by Google</a> · <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener">CC BY 3.0</a> · adapted for flight</p><button id="resume" class="primary">Back to course ↗</button><button id="restart" class="text-button">Start a fresh round</button></dialog>
+<dialog id="complete"><div id="completeName" class="eyebrow">SMUGGLER’S GREEN</div><h2 id="completeTitle">Scorecard</h2><div id="score"></div><p id="completeNote"></p><button id="nextHole" class="primary hidden">Walk to hole 2 →</button><button id="again" class="primary">Another quiet round ↗</button><button id="explore" class="text-button">Keep exploring</button></dialog>
+<div id="error" class="hidden"><h2>The garden couldn't open.</h2><p id="errorMessage">This browser needs WebGL enabled. Try reloading in Safari or Chrome.</p><button onclick="location.reload()">Try again</button></div>
+<noscript>This garden needs JavaScript enabled to run.</noscript>
+<script src="vendor/babylon-9.30.0.js"></script><script src="vendor/babylonjs.loaders.min.js"></script><script type="module" src="game.js"></script></body></html>

@@ -1,0 +1,122 @@
+Verdant Isles / Smuggler's Green / Prototype 10
+
+Environment model sets: Poly Haven, CC0-1.0 (public domain). Official source downloads; selected variants, simplified meshes and recompressed textures. Runtime grass uses the supplied grass_medium_01_mid_b variant.
+Evergreen needle fragments widened during preparation to preserve canopy coverage. Pine trunks widened with a taper at load; trees centered on their trunk bases. Jacaranda canopy artistically recolored rose pink.
+
+Fern 02
+https://polyhaven.com/a/fern_02
+Authors: Rob Tuytel, Rico Cilliers
+Prepared triangles: 6232
+
+Ship Pinnace
+https://polyhaven.com/a/ship_pinnace
+Authors: James Ray Cock, Rico Cilliers, Nicolò Zubbini, Yann Kervran
+Prepared triangles: 58634
+
+Wooden Crate 01
+https://polyhaven.com/a/wooden_crate_01
+Authors: James Ray Cock
+Prepared triangles: 6576
+
+Wooden Lantern 01
+https://polyhaven.com/a/wooden_lantern_01
+Authors: James Ray Cock
+Prepared triangles: 8321
+
+Fir Sapling Medium
+https://polyhaven.com/a/fir_sapling_medium
+Authors: Rob Tuytel, Rico Cilliers
+Prepared triangles: 200272
+
+Flower Heliophila
+https://polyhaven.com/a/flower_heliophila
+Authors: Jenelle van Heerden
+Prepared triangles: 8994
+
+Jacaranda Tree
+https://polyhaven.com/a/jacaranda_tree
+Authors: Rob Tuytel, Rico Cilliers
+Prepared triangles: 115169
+
+Moon Rock 01
+https://polyhaven.com/a/moon_rock_01
+Authors: Greg Zaal, Rico Cilliers, Jenelle van Heerden, Dario Barresi
+Prepared triangles: 17710
+
+Namaqualand Boulder 02
+https://polyhaven.com/a/namaqualand_boulder_02
+Authors: Greg Zaal, Rico Cilliers
+Prepared triangles: 9000
+
+Rock Moss Set 01
+https://polyhaven.com/a/rock_moss_set_01
+Authors: Kless Gyzen
+Prepared triangles: 9000
+
+Seadogs Compass
+https://polyhaven.com/a/seadogs_compass
+Authors: Benny Weimer
+Prepared triangles: 11645
+
+Searsia Lucida
+https://polyhaven.com/a/searsia_lucida
+Authors: James Ray Cock, Jenelle van Heerden
+Prepared triangles: 7232
+
+Pine Tree 01
+https://polyhaven.com/a/pine_tree_01
+Authors: Rob Tuytel, Rico Cilliers
+Prepared triangles: 164667
+
+Grass Medium 01
+https://polyhaven.com/a/grass_medium_01
+Authors: Rob Tuytel, Rico Cilliers
+Prepared triangles: 1257
+
+Namaqualand Boulder 04
+https://polyhaven.com/a/namaqualand_boulder_04
+Authors: Jenelle van Heerden
+Prepared triangles: 9000
+
+Namaqualand Boulder 06
+https://polyhaven.com/a/namaqualand_boulder_06
+Authors: Greg Zaal, Jenelle van Heerden
+Prepared triangles: 9000
+
+Treasure Chest
+https://polyhaven.com/a/treasure_chest
+Authors: Rico Cilliers
+Prepared triangles: 25769
+
+Surfaces and lighting — Poly Haven, CC0:
+https://polyhaven.com/a/grass_ground
+https://polyhaven.com/a/sand_01 (diffuse and normal maps)
+https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky
+
+Ground blending, mowing patterns, water shader, golf objects and ambient dust are original prototype work. No palms or rabbits are rendered. Wildlife sources are listed below. Babylon.js 9.30.0 is Apache-2.0; license in vendor/. All runtime assets are self-hosted.
+
+
+Prototype 10 ground cover - Poly Haven, CC0-1.0:
+https://polyhaven.com/a/moss_01 (moss_01_a_LOD0; 24 triangles)
+https://polyhaven.com/a/grass_bermuda_01 (medium_a; 17 triangles)
+Separate official alpha masks merged into base-color PNGs; alpha testing prevents dark rectangular borders. The same repair was applied to grass_medium_01 and searsia_lucida. Tree base geometry conforms to terrain locally, with a green vertex-color tint on the outer apron. Shoreline rocks are buried more deeply. Distant islets use original terrain geometry and reused scans.
+
+Wildlife - all CC0, downloaded from the artists' OpenGameArt pages:
+Butterfly (animated), CDmir / Cestmir Dammer, collaborator TinyWorlds.
+https://opengameart.org/content/butterfly-animated
+Source Butterfly.zip; original license credits Rick Hoppmann's photo documentation for the diffuse texture.
+Bird, gonzalfj / Fabio Gonzalez, based on the linked bird basemesh.
+https://opengameart.org/content/bird
+Source bird_0.blend.
+Deer Female, CDmir, collaborator TinyWorlds.
+https://opengameart.org/content/deer-female
+Source doe.blend.
+Converted with Blender 4.5.0 to GLB, keeping textures and rigs; modernized materials, baked active flight and selected deer actions, removed preview lights/cameras/floor. Small-scale flight paths and proximity-triggered doe behavior are original game code. No animal assets were generated or extracted from another game.
+
+
+Prototype 10 terrain surfaces - Poly Haven, CC0:
+https://polyhaven.com/a/leafy_grass
+https://polyhaven.com/a/aerial_grass_rock
+Official 2K diffuse textures and 2K OpenGL normals downloaded; diffuse retained at 2K, normals reduced to 1K and JPEG recompressed. Green tint and world-coordinate blending apply only to wild rough. No displacement modifies golf terrain physics.
+
+The separate art-options gallery uses official Poly Haven primary preview PNGs (360px high), stored under assets/options. Each card links to its model page. Gallery candidates are not loaded by the game. These ten images and models are CC0: shrub_sorrel_01, rock_moss_set_02, flower_empodium, shrub_01, sand_rocks_small_01, tree_stump_02, wooden_barrels_01, cannon_01, stone_fire_pit, wooden_bucket_02. Source pages follow https://polyhaven.com/a/<asset-id>.

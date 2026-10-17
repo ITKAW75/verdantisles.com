@@ -1,0 +1,309 @@
+{
+  "checked": "2026-10-12",
+  "licenseSource": "https://polyhaven.com/license",
+  "items": [
+    {
+      "id": "wooden_picnic_table",
+      "name": "Wooden Picnic Table",
+      "type": "3D model",
+      "fit": "A single gathering spot beside the cabin porch.",
+      "existing": false,
+      "image": "wooden_picnic_table.webp",
+      "source": "https://polyhaven.com/a/wooden_picnic_table",
+      "authors": [
+        "Ulan Cabanilla"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_picnic_table.png?width=480&height=480&format=webp&v=d0b52d80"
+    },
+    {
+      "id": "painted_wooden_bench",
+      "name": "Painted Wooden Bench",
+      "type": "3D model",
+      "fit": "One worn seat overlooking the quiet inlet.",
+      "existing": false,
+      "image": "painted_wooden_bench.webp",
+      "source": "https://polyhaven.com/a/painted_wooden_bench",
+      "authors": [
+        "Kirill Sannikov"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/painted_wooden_bench.png?width=480&height=480&format=webp&v=68ce259c"
+    },
+    {
+      "id": "modular_wooden_pier",
+      "name": "Modular Wooden Pier",
+      "type": "3D model",
+      "fit": "Short central footbridge to the separate pin island; rework supports to suit the banks.",
+      "existing": true,
+      "image": "modular_wooden_pier.webp",
+      "source": "https://polyhaven.com/a/modular_wooden_pier",
+      "authors": [
+        "Rico Cilliers"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/modular_wooden_pier.png?width=480&height=480&format=webp&v=03033d74"
+    },
+    {
+      "id": "wooden_lantern_01",
+      "name": "Wooden Lantern 01",
+      "type": "3D model",
+      "fit": "Warm porch light and one restrained tee marker.",
+      "existing": true,
+      "image": "wooden_lantern_01.webp",
+      "source": "https://polyhaven.com/a/wooden_lantern_01",
+      "authors": [
+        "James Ray Cock"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_lantern_01.png?width=480&height=480&format=webp&v=ddb2c1b6"
+    },
+    {
+      "id": "wooden_axe_02",
+      "name": "Wooden Axe 02",
+      "type": "3D model",
+      "fit": "Lean beside a chopping stump, outside the walking route.",
+      "existing": true,
+      "image": "wooden_axe_02.webp",
+      "source": "https://polyhaven.com/a/wooden_axe_02",
+      "authors": [
+        "Ulan Cabanilla"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_axe_02.png?width=480&height=480&format=webp&v=085baa27"
+    },
+    {
+      "id": "handsaw_wood",
+      "name": "Handsaw Wood",
+      "type": "3D model",
+      "fit": "Small woodworking detail under the porch.",
+      "existing": false,
+      "image": "handsaw_wood.webp",
+      "source": "https://polyhaven.com/a/handsaw_wood",
+      "authors": [
+        "Konrad Szałankiewicz"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/handsaw_wood.png?width=480&height=480&format=webp&v=44946aa5"
+    },
+    {
+      "id": "wooden_bucket_02",
+      "name": "Wooden Bucket 02",
+      "type": "3D model",
+      "fit": "One weathered bucket by the steps.",
+      "existing": true,
+      "image": "wooden_bucket_02.webp",
+      "source": "https://polyhaven.com/a/wooden_bucket_02",
+      "authors": [
+        "James Ray Cock"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_bucket_02.png?width=480&height=480&format=webp&v=e14ccffa"
+    },
+    {
+      "id": "wooden_crate_02",
+      "name": "Wooden Crate 02",
+      "type": "3D model",
+      "fit": "A modest supply stack tucked under the eaves.",
+      "existing": true,
+      "image": "wooden_crate_02.webp",
+      "source": "https://polyhaven.com/a/wooden_crate_02",
+      "authors": [
+        "James Ray Cock",
+        "Jurita Burger"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_crate_02.png?width=480&height=480&format=webp&v=067477fc"
+    },
+    {
+      "id": "wooden_barrels_01",
+      "name": "Wooden Barrels 01",
+      "type": "3D model",
+      "fit": "One or two rain barrels, not another pirate cargo pile.",
+      "existing": true,
+      "image": "wooden_barrels_01.webp",
+      "source": "https://polyhaven.com/a/wooden_barrels_01",
+      "authors": [
+        "James Ray Cock"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_barrels_01.png?width=480&height=480&format=webp&v=2f6882ae"
+    },
+    {
+      "id": "wooden_ladder_02",
+      "name": "Wooden Ladder 02",
+      "type": "3D model",
+      "fit": "A stored ladder against the cabin wall.",
+      "existing": false,
+      "image": "wooden_ladder_02.webp",
+      "source": "https://polyhaven.com/a/wooden_ladder_02",
+      "authors": [
+        "JN_3DPRINTINGNERD"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_ladder_02.png?width=480&height=480&format=webp&v=a5735638"
+    },
+    {
+      "id": "wooden_stool_02",
+      "name": "Wooden Stool 02",
+      "type": "3D model",
+      "fit": "A small porch seat, optional instead of the bench.",
+      "existing": true,
+      "image": "wooden_stool_02.webp",
+      "source": "https://polyhaven.com/a/wooden_stool_02",
+      "authors": [
+        "Kuutti Siitonen"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_stool_02.png?width=480&height=480&format=webp&v=947892d3"
+    },
+    {
+      "id": "tree_stump_02",
+      "name": "Tree Stump 02",
+      "type": "3D model",
+      "fit": "Chopping block at the woodland edge.",
+      "existing": true,
+      "image": "tree_stump_02.webp",
+      "source": "https://polyhaven.com/a/tree_stump_02",
+      "authors": [
+        "Rob Tuytel"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/tree_stump_02.png?width=480&height=480&format=webp&v=411e14f0"
+    },
+    {
+      "id": "rock_moss_set_02",
+      "name": "Rock Moss Set 02",
+      "type": "3D model",
+      "fit": "Low shoreline stones around the sheltered pond.",
+      "existing": true,
+      "image": "rock_moss_set_02.webp",
+      "source": "https://polyhaven.com/a/rock_moss_set_02",
+      "authors": [
+        "Kless Gyzen"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/rock_moss_set_02.png?width=480&height=480&format=webp&v=2acc6bcd"
+    },
+    {
+      "id": "moss_01",
+      "name": "Moss 01",
+      "type": "3D model",
+      "fit": "Sparse shaded ground cover near the cabin foundation.",
+      "existing": true,
+      "image": "moss_01.webp",
+      "source": "https://polyhaven.com/a/moss_01",
+      "authors": [
+        "Rob Tuytel"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/moss_01.png?width=480&height=480&format=webp&v=5f65cb0e"
+    },
+    {
+      "id": "fir_sapling",
+      "name": "Fir Sapling",
+      "type": "3D model",
+      "fit": "Young trees between the existing giant pines.",
+      "existing": true,
+      "image": "fir_sapling.webp",
+      "source": "https://polyhaven.com/a/fir_sapling",
+      "authors": [
+        "Rob Tuytel",
+        "Rico Cilliers"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/fir_sapling.png?width=480&height=480&format=webp&v=bb4db69e"
+    },
+    {
+      "id": "fern_02",
+      "name": "Fern 02",
+      "type": "3D model",
+      "fit": "A few shaded banks, clear of the maintained turf.",
+      "existing": true,
+      "image": "fern_02.webp",
+      "source": "https://polyhaven.com/a/fern_02",
+      "authors": [
+        "Rob Tuytel",
+        "Rico Cilliers"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/fern_02.png?width=480&height=480&format=webp&v=334ce7aa"
+    },
+    {
+      "id": "dark_wooden_planks",
+      "name": "Dark Wooden Planks",
+      "type": "Texture material",
+      "fit": "Porch and bridge decking material; not a cabin model.",
+      "existing": false,
+      "image": "dark_wooden_planks.webp",
+      "source": "https://polyhaven.com/a/dark_wooden_planks",
+      "authors": [
+        "Amal Kumar"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/dark_wooden_planks.png?width=480&height=480&format=webp&v=21ce8d38"
+    },
+    {
+      "id": "weathered_peeling_timber",
+      "name": "Weathered Peeling Timber",
+      "type": "Texture material",
+      "fit": "Weathered trim reference. Use sparingly; not the main log wall.",
+      "existing": false,
+      "image": "weathered_peeling_timber.webp",
+      "source": "https://polyhaven.com/a/weathered_peeling_timber",
+      "authors": [
+        "Dimitrios Savva"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/weathered_peeling_timber.png?width=480&height=480&format=webp&v=f122129f"
+    },
+    {
+      "id": "roof_planks",
+      "name": "Roof Planks",
+      "type": "Texture material",
+      "fit": "Rustic timber roof material for a custom cabin.",
+      "existing": false,
+      "image": "roof_planks.webp",
+      "source": "https://polyhaven.com/a/roof_planks",
+      "authors": [
+        "Rob Tuytel"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/roof_planks.png?width=480&height=480&format=webp&v=d1bbc812"
+    },
+    {
+      "id": "moss_wood",
+      "name": "Moss Wood",
+      "type": "Texture material",
+      "fit": "Small damp accents on the bank-side timber.",
+      "existing": false,
+      "image": "moss_wood.webp",
+      "source": "https://polyhaven.com/a/moss_wood",
+      "authors": [
+        "Rob Tuytel"
+      ],
+      "license": "CC0",
+      "previewCredit": "Poly Haven source preview",
+      "previewURL": "https://cdn.polyhaven.com/asset_img/thumbs/moss_wood.png?width=480&height=480&format=webp&v=95661d3c"
+    }
+  ]
+}

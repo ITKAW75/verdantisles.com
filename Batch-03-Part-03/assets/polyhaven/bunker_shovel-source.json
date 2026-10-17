@@ -1,0 +1,19 @@
+{
+  "id": "bunker_shovel",
+  "name": "Shovel",
+  "author": "JamesWhite",
+  "source": "https://opengameart.org/content/shovel",
+  "download": "https://opengameart.org/sites/default/files/shovel_model_0.zip",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "changes": "OBJ converted to GLB, original supplied 256x256 texture attached, normalized to 1.35 m upright with blade tip at origin. No texture edits.",
+  "dimensions_gltf_xyz_m": [
+    0.0875,
+    1.35,
+    0.2157
+  ],
+  "orientation": "Y up; blade tip on y=0, handle toward +Y; thin axis X and blade width along Z.",
+  "triangles": 118,
+  "texture": "Original shovel_texture.png (256x256)",
+  "placement": "Bunker edge, blade slightly buried or leaning; not inside playable sand."
+}

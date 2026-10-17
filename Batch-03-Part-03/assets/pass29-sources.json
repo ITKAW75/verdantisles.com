@@ -1,0 +1,81 @@
+{
+  "license": "CC0-1.0",
+  "records": [
+    {
+      "id": "wooden_picnic_table",
+      "type": "model",
+      "source": "https://polyhaven.com/a/wooden_picnic_table",
+      "license": "CC0-1.0",
+      "file": "polyhaven/wooden_picnic_table.glb"
+    },
+    {
+      "id": "painted_wooden_bench",
+      "type": "model",
+      "source": "https://polyhaven.com/a/painted_wooden_bench",
+      "license": "CC0-1.0",
+      "file": "polyhaven/painted_wooden_bench.glb"
+    },
+    {
+      "id": "handsaw_wood",
+      "type": "model",
+      "source": "https://polyhaven.com/a/handsaw_wood",
+      "license": "CC0-1.0",
+      "file": "polyhaven/handsaw_wood.glb"
+    },
+    {
+      "id": "wooden_ladder_02",
+      "type": "model",
+      "source": "https://polyhaven.com/a/wooden_ladder_02",
+      "license": "CC0-1.0",
+      "file": "polyhaven/wooden_ladder_02.glb"
+    },
+    {
+      "id": "dark_wooden_planks",
+      "type": "material",
+      "source": "https://polyhaven.com/a/dark_wooden_planks",
+      "license": "CC0-1.0",
+      "resolution": "1K",
+      "files": [
+        "dark_wooden_planks-Diffuse.jpg",
+        "dark_wooden_planks-nor_gl.jpg",
+        "dark_wooden_planks-Rough.jpg"
+      ]
+    },
+    {
+      "id": "weathered_peeling_timber",
+      "type": "material",
+      "source": "https://polyhaven.com/a/weathered_peeling_timber",
+      "license": "CC0-1.0",
+      "resolution": "1K",
+      "files": [
+        "weathered_peeling_timber-Diffuse.jpg",
+        "weathered_peeling_timber-nor_gl.jpg",
+        "weathered_peeling_timber-Rough.jpg"
+      ]
+    },
+    {
+      "id": "roof_planks",
+      "type": "material",
+      "source": "https://polyhaven.com/a/roof_planks",
+      "license": "CC0-1.0",
+      "resolution": "1K",
+      "files": [
+        "roof_planks-Diffuse.jpg",
+        "roof_planks-nor_gl.jpg",
+        "roof_planks-Rough.jpg"
+      ]
+    },
+    {
+      "id": "moss_wood",
+      "type": "material",
+      "source": "https://polyhaven.com/a/moss_wood",
+      "license": "CC0-1.0",
+      "resolution": "1K",
+      "files": [
+        "moss_wood-Diffuse.jpg",
+        "moss_wood-nor_gl.jpg",
+        "moss_wood-Rough.jpg"
+      ]
+    }
+  ]
+}
